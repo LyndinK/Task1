@@ -1,0 +1,7 @@
+C:\Users\Кирилл\source\repos\Matrix_shortest\Matrix_shortest\bin\Debug\Matrix_shortest.exe.config
+C:\Users\Кирилл\source\repos\Matrix_shortest\Matrix_shortest\bin\Debug\Matrix_shortest.exe
+C:\Users\Кирилл\source\repos\Matrix_shortest\Matrix_shortest\bin\Debug\Matrix_shortest.pdb
+C:\Users\Кирилл\source\repos\Matrix_shortest\Matrix_shortest\obj\Debug\Matrix_shortest.csprojResolveAssemblyReference.cache
+C:\Users\Кирилл\source\repos\Matrix_shortest\Matrix_shortest\obj\Debug\Matrix_shortest.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\source\repos\Matrix_shortest\Matrix_shortest\obj\Debug\Matrix_shortest.exe
+C:\Users\Кирилл\source\repos\Matrix_shortest\Matrix_shortest\obj\Debug\Matrix_shortest.pdb
