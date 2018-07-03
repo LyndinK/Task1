@@ -1,4 +1,4 @@
-Загрузить архив и открыть файл .sln в MS VisualStudio, решение откоется автоматически.
-Если у вас нет MS VisualStudio, то
-Исходный код есть в папке Matrix_shortest\Matrix_shortest в файле Program.cs 
-А в папке Matrix_shortest\Matrix_shortest\obj\Debug есть готовый exe файл Matrix_shortest.exe
+Р—Р°РіСЂСѓР·РёС‚СЊ Р°СЂС…РёРІ Рё РѕС‚РєСЂС‹С‚СЊ С„Р°Р№Р» .sln РІ MS VisualStudio, СЂРµС€РµРЅРёРµ РѕС‚РєСЂРѕРµС‚СЃСЏ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё.
+Р•СЃР»Рё Сѓ РІР°СЃ РЅРµС‚ MS VisualStudio, С‚Рѕ
+РСЃС…РѕРґРЅС‹Р№ РєРѕРґ РµСЃС‚СЊ РІ РїР°РїРєРµ Matrix_shortest\Matrix_shortest РІ С„Р°Р№Р»Рµ Program.cs 
+Рђ РІ РїР°РїРєРµ Matrix_shortest\Matrix_shortest\obj\Debug РµСЃС‚СЊ РіРѕС‚РѕРІС‹Р№ exe С„Р°Р№Р» Matrix_shortest.exe
